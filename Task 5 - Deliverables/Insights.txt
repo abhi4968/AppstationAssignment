@@ -1,0 +1,23 @@
+Visual 1. Total Sales By Region - Bar Chart
+
+* This chart shows total sales across different regions (North, East, West, and South). This can be used to identify sales performance by region.
+* Here We could see that North region has the highest number of sales
+
+Visual 2. Monthly Sales Trend - Line Chart
+
+* This chart displays monthly sales performance over time, helping analysts to track trends and seasonality
+* May 2023 has the highest sales across 2023.
+
+Visual 3. Top 5 Products by Sales -Table Chart
+
+* This chart helps the analysts to identify the best selling products
+* Laptop is the most sold product with achieving 17,00,982.99 in sales
+
+Visual 4. Total Sales - Card Visual
+
+* This card visual shows overall sales figure across all transactions. 
+* 2.25M is the overall sales figure.
+
+Visual 5. Choose region - Slicer
+
+Allows users to filter the reports based on region.
